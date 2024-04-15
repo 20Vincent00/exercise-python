@@ -1,0 +1,6 @@
+nom = str("un")
+nombre = float(1)
+reel = int(1)
+print(nom)
+print(nombre)
+print(reel)
